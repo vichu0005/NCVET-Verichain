@@ -1,0 +1,7 @@
+{
+  "name": "NCVET VeriChain",
+  "description": "A blockchain-enabled certificate issuance and verification system for vocational learners under NCVET.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
